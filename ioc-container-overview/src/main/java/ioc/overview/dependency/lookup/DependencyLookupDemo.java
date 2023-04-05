@@ -14,7 +14,8 @@ import java.util.Map;
 /**
  * 依赖查找
  */
-public class DependencyLookupDemo {
+public class
+DependencyLookupDemo {
 
     public static void main(String[] args) {
 
